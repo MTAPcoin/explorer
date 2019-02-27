@@ -42,7 +42,7 @@
   // wallet settings
   "wallet": {
     "host": "localhost",
-    "port": 6988,
+    "port": 6933,
     "user": "",
     "pass": ""
   },
@@ -77,9 +77,9 @@
   // ensure links on API page are valid
   "api": {
     "blockindex": 0,
-    "blockhash": "00000621775c03abef06cf66428e6f239175dc3b248f3092339575674b2f293c",
-    "txhash": "1a2bd26f982a1595b6cdb82203f35c6417aabc1190f6a1ef3320128721f57943",
-    "address": "ML6ELfNFdgTpUirFoJ6kBUUqWnUBctcpLC"
+    "blockhash": "000005b5991efaf2b450d9b51866f84d148249ad6e9949a718745daa67a9f8cf",
+    "txhash": "1af1d26a82f25dc86afd302a9bfdeb5e1ebf3e660a409ea067f532d9f08f1245",
+    "address": "MDNocYQ3atKvPUKc6YUR7TuUnfv2Cjv7wp"
   },
 
   "markets": {
@@ -110,8 +110,8 @@
   "googleplus": "yourgooglepluspage",
 
   //genesis
-  "genesis_tx": "1a2bd26f982a1595b6cdb82203f35c6417aabc1190f6a1ef3320128721f57943",
-  "genesis_block": "00000621775c03abef06cf66428e6f239175dc3b248f3092339575674b2f293c",
+  "genesis_tx": "1af1d26a82f25dc86afd302a9bfdeb5e1ebf3e660a409ea067f532d9f08f1245",
+  "genesis_block": "000005b5991efaf2b450d9b51866f84d148249ad6e9949a718745daa67a9f8cf",
 
   //heavy (enable/disable additional heavy features)
   "heavy": false,
